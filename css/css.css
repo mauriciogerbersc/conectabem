@@ -81,6 +81,12 @@ h1.logo {
     margin: 20px 0;
 }
 
+
+.logo img, .navbar-header .logo img {
+    max-width: 250px;
+    height:32px;
+}
+
 label {
     display: inline-block;
     max-width: 100%;
@@ -356,6 +362,9 @@ footer {
     width: 99.2%;
 }
 
+footer .logo img {
+    max-width: 100%;
+}
 
 footer .footer {
     background-color: #1a1b22;

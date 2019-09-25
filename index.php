@@ -24,7 +24,9 @@
                     <div class="row">
                         <div class="nav-bar col-md-2">
                             <h1 class="logo">
-                                <a href="http://www.google.com">LOGO</a>
+                                <a href="#">
+                                    <img src="img/logo-conectabem.png" alt="Conecta Bem">
+                                </a>
                             </h1>
                         </div>
                         <div class="col-md-10 header-contact-details">
@@ -308,7 +310,10 @@
                             <div class="col-md-6">
                                 <aside>
                                     <div class="textwidget">
-                                        <h1 class="logo"><a href="#">Logo</a></h1>
+                                        <h1 class="logo">
+                                            <a href="#">   
+                                                <img src="img/logo-conectabem.png" alt="Conecta Bem"></a>
+                                            </h1>
 
                                         <p> Nullam non efficitur purus. Sed vitae lorem vel arcu imperdiet ullamcorper.
                                             Ut
