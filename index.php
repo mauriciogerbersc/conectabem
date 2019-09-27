@@ -53,8 +53,8 @@
                     <div class="row">
                         <div id="navbar" class="navbar-collapse collapse col-md-12">
                             <ul class="menu nav navbar-nav nav-effect nav-menu">
-                                <li class="menu menu-item"><a href="#">Principal</a></li>
-                                <li class="menu menu-item"><a href="#">Quem Somos?</a></li>
+                                <li class="menu menu-item"><a href="./index.php">Principal</a></li>
+                                <li class="menu menu-item"><a href="./quemsomos.php">Quem Somos?</a></li>
                                 <li class="menu menu-item"><a href="#">Como Doar?</a></li>
                                 <li class="menu menu-item"><a href="#">Por que adotar?</a></li>
                                 <li class="menu menu-item"><a href="#">Contato</a></li>
