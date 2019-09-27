@@ -357,6 +357,60 @@ h3 {
 }
 
 
+.relative {
+    position: relative;
+}
+
+
+.header-title-breadcrumb-overlay {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border-bottom: 1px solid #f4f4f4;
+    box-sizing: border-box;
+    display: flex;
+    height: 100%;
+    padding: 40px 0;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+
+
+.header-title-breadcrumb-overlay h1 {
+    align-self: center;
+    color: #333333;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 120%;
+    margin: 0 auto;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+
+.header-group .breadcrumb {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    margin: 0;
+}
+
+.header-group .breadcrumb li a, .header-group .breadcrumb li {
+    font-size: 14px;
+}
+
+.breadcrumb {
+    color: #ccc;
+}
+
+
+
+.breadcrumb {
+    padding: 0 0 0 2px;
+}
+
+.breadcrumb .active {
+    margin-left: 3px;
+}
+
+
 footer {
     background: #393939;
     width: 99.2%;
@@ -379,12 +433,15 @@ footer .footer-top {
 }
 
 
+.right-side {
+    float:right !important;
+}
 .text-right {
-    text-align: right;
+    text-align: right !important;
 }
 
 .text-left {
-    text-align: left;
+    text-align: left !important;
 }
 
 
